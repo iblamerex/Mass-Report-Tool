@@ -27,7 +27,7 @@ Discord Mass Report Tool | Fast and Free
 
 # Credits
 - Discord - **@rexwants3x#0**
-- Server - [Hindustani](https://discord.gg/hindustani) | [𝐍𝐮𝐤𝐞𝐫𝐬 𝐇𝐮𝐛™](https://discord.gg/makXEQk2TF)
+- Server - [Hindustani](https://discord.gg/hindustani) | [𝐀𝐩𝐢 𝐀𝐛𝐮𝐬𝐞𝐫™](https://discord.gg/makXEQk2TF)
 - Instagram - [thecursedspirit](https://www.instagram.com/thecursedspirit)
 - Youtube - [ReX](https://www.youtube.com/@ItzRexu)
 
